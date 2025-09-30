@@ -4,5 +4,7 @@ Desarrollo del proyecto del curso de Inteligencia Artificial para las Ciencias y
 ## Estudiante: 
 
 Erney Dario Urrego Graciano
+
 Programa: Ingenieria Industrial 
+
 Documento: 
